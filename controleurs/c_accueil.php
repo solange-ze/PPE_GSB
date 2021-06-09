@@ -7,6 +7,7 @@
  * @category  PPE
  * @package   GSB
  * @author    Solange Zerbib
+ * @author  inst  beth sefer
  */
 
 $estVisiteurConnecte = estVisiteurConnecte();
